@@ -16,6 +16,7 @@ Based on <a href="https://github.com/nineteetwo/MagiOS-concepts-i3">my previous 
 - neofetch
 - rofi
 - feh
+- autotiling
 
 ### Installation
 
@@ -23,7 +24,7 @@ Based on <a href="https://github.com/nineteetwo/MagiOS-concepts-i3">my previous 
 
 ```bash
 sudo apt-get update
-sudo apt-get install i3 feh polybar rofi alacritty picom neofetch
+sudo apt-get install autotiling i3 feh polybar rofi alacritty picom neofetch
 ```
 #### Arch-based Distributions
 ```bash
